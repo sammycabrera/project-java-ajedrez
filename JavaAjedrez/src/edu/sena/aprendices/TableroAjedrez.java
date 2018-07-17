@@ -25,7 +25,7 @@ public class TableroAjedrez extends JDialog{
     
     
     private void configurarVentana(){
-        this.setTitle("Tablero de Ajedrez");
+        this.setTitle("Tablero Ajedrez Juego");
         this.setResizable(false);
         this.setSize(500,500);
         this.setLocationRelativeTo(null);        
